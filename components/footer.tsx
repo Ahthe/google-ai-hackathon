@@ -16,11 +16,7 @@ export function FooterText({ className, ...props }: React.ComponentProps<'p'>) {
       <ExternalLink href="https://cloud.google.com/vertex-ai">
         Google Gemini API
       </ExternalLink>
-      , <ExternalLink href="https://nextjs.org">Next.js</ExternalLink> and{' '}
-      <ExternalLink href="https://github.com/vercel/ai">
-        and Vercel AI SDK
-      </ExternalLink>
-      .
+      and <ExternalLink href="https://nextjs.org">Next.js</ExternalLink>. Please Cross Check before making a reservation because AI can make mistakes, Thank You Happy Flying!!
     </p>
   )
 }
